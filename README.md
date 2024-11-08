@@ -1,7 +1,7 @@
 # Ex-2
 # GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 
-### Name : Iswarya P
+### Name : JAYADEV PALLINTI
 ### Register no : 212223240058
 
 ## AIM
